@@ -1,1 +1,3 @@
 # SurfacePhotometry
+
+## Joseph Havens
